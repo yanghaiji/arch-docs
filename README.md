@@ -22,7 +22,7 @@
 
 # SRE指南
 
-
+[SRE指标介绍](sre/sre-docs.md)
 
 # Test指南
 
