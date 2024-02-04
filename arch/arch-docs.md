@@ -12,6 +12,7 @@
 
 ## 部署架构图（Deployment Architecture Diagram）
 包括软件如何在不同服务器、网络和存储设备之间分配和部署，以及如何保证系统的可用性、稳定性和安全性。
+![部署架构图](img/depolyment-arch.png)
 
 ## 硬件架构图（Hardware Architecture Diagram）
 这种图表展示了系统的硬件组件，如服务器、存储设备、网络设备等，以及它们之间的连接和交互关系。
