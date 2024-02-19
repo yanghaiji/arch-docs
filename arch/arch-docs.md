@@ -7,11 +7,13 @@
 
 ## 软件架构图（Software Architecture Diagram）
 这种图表侧重于显示软件系统的组成部分和它们之间的关系。软件架构图可以包括模块、组件、类、对象等元素，以及它们之间的依赖关系。
+
 ![软件架构图](img/Software-srch.png)
 
 
 ## 部署架构图（Deployment Architecture Diagram）
 包括软件如何在不同服务器、网络和存储设备之间分配和部署，以及如何保证系统的可用性、稳定性和安全性。
+
 ![部署架构图](img/depolyment-arch.png)
 
 ## 硬件架构图（Hardware Architecture Diagram）
@@ -24,6 +26,8 @@
 
 ## 数据架构图（Data Architecture Diagram）
 这种图表描述了系统中数据的流动和存储方式，包括数据库、数据仓库、数据流等元素。
+
+![数据架构图](img/data-srch.png)
 
 
 ## 安全架构图（Security Architecture Diagram） 
